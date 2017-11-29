@@ -1,4 +1,4 @@
-name             'poise_python'
+name             'poise-python'
 maintainer       'Poise python'
 maintainer_email 'nobody@poise_python.com'
 license          'All rights reserved'
